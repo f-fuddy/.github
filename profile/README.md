@@ -1,5 +1,5 @@
 # Webapp que usa Inteligencia Artificial para Recomendaciones de Recetas saludables y accesibles
-<img href="https://app.fuddy.click/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.0eeb3b63.png&w=256&q=75" />
+<img src="https://app.fuddy.click/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.0eeb3b63.png&w=256&q=75" width="300" alt="LOGO" />
 ## Descripción
 Este proyecto es una aplicación web y mobile que hace uso de inteligencia artificial, diseñada para ofrecer recomendaciones personalizadas de recetas saludables y accesibles, te solicita ingresar tus ingredientes que tengas en casa. Basado en esos criterios, la web analiza las necesidades del usuario y sugiere opciones de recetas, teniendo en cuenta factores como enfermedades, alergias, y preferencias alimenticias. 
 
