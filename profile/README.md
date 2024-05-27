@@ -41,8 +41,8 @@ Para soporte, por favor contacta por
 - LINKEDIN: https://www.linkedin.com/in/avellaneda-agustín-tns/
 
 # Disclaimer
-*Fuddy es un proyecto de uso libre, más no de código abierto, por motivos de seguridad y estabilidad no mostramos el código de la aplicación funcionando.*
-*Fuddy ofrece recetas usando IA, no reemplaza ninguna opinión medica profesional, es una herramienta.**
-*Fuddy no se responsabiliza del mal uso de la información proporcionada, ni asegura la fidelidad de la misma*
-*LEER TÉRMINOS Y CONDICIONES AL REGISTRARSE*
+- *Fuddy es un proyecto de uso libre, más no de código abierto, por motivos de seguridad y estabilidad no mostramos el código de la aplicación funcionando.*
+- *Fuddy ofrece recetas usando IA, no reemplaza ninguna opinión medica profesional, es una herramienta.*
+- *Fuddy no se responsabiliza del mal uso de la información proporcionada, ni asegura la fidelidad de la misma*
+- *LEER TÉRMINOS Y CONDICIONES AL REGISTRARSE*
 
