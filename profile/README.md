@@ -1,7 +1,9 @@
 # Webapp que usa Inteligencia Artificial para Recomendaciones de Recetas saludables y accesibles
+
 <div align="center">
-<img src="https://res.cloudinary.com/draig/image/upload/v1694804873/fuddy/x3c0jyse51halioek934.png" width="300" alt="LOGO" />
+<img src="https://res.cloudinary.com/draig/image/upload/v1694804873/fuddy/x3c0jyse51halioek934.png" width="200" alt="LOGO" />
 </div>
+
 ## Descripción
 Este proyecto es una aplicación web y mobile que hace uso de inteligencia artificial, diseñada para ofrecer recomendaciones personalizadas de recetas saludables y accesibles, te solicita ingresar tus ingredientes que tengas en casa. Basado en esos criterios, la web analiza las necesidades del usuario y sugiere opciones de recetas, teniendo en cuenta factores como enfermedades, alergias, y preferencias alimenticias. 
 
@@ -36,6 +38,7 @@ Este proyecto es una aplicación web y mobile que hace uso de inteligencia artif
 ## Contacto
 Para soporte, por favor contacta por
 EMAIL: agustind@duck.com
+LINKEDIN: https://www.linkedin.com/in/avellaneda-agustín-tns/
 
 
 
