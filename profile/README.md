@@ -1,4 +1,4 @@
-# Webapp que usa Inteligencia Artificial para Recomendaciones de Recetas saludables y accesibles
+# Fuddy | Aplicación para Recomendaciones de Recetas saludables y accesibles enfocada en Latinoamerica
 
 <div align="center">
 <img src="https://res.cloudinary.com/draig/image/upload/v1694804873/fuddy/x3c0jyse51halioek934.png" width="200" alt="LOGO" />
@@ -14,11 +14,11 @@ Este proyecto es una aplicación web y mobile que hace uso de inteligencia artif
 - **Funcionalidades de Personalización**: Incluye opciones básicas de personalización para adaptarse a las preferencias del usuario.
 
 ## Tecnologías Utilizadas
-- Lenguaje de Programación: Typescript, Javascript
-- IA: GPT
-- Backend: Node.js con Express.js
-- Frontend: Next.js
-- Mobile: React Native
+- **Lenguaje de Programación:** Typescript, Javascript
+- **IA:** GPT
+- **Backend:** Node.js con Express.js
+- **Frontend:** Next.js
+- **Mobile:** React Native
 
 ## Uso
 - Registrarse en https://app.fuddy.click/register
@@ -37,8 +37,12 @@ Este proyecto es una aplicación web y mobile que hace uso de inteligencia artif
 
 ## Contacto
 Para soporte, por favor contacta por
-EMAIL: agustind@duck.com
-LINKEDIN: https://www.linkedin.com/in/avellaneda-agustín-tns/
+- EMAIL: agustind@duck.com
+- LINKEDIN: https://www.linkedin.com/in/avellaneda-agustín-tns/
 
-
+# Disclaimer
+*Fuddy es un proyecto de uso libre, más no de código abierto, por motivos de seguridad y estabilidad no mostramos el código de la aplicación funcionando.*
+*Fuddy ofrece recetas usando IA, no reemplaza ninguna opinión medica profesional, es una herramienta.**
+*Fuddy no se responsabiliza del mal uso de la información proporcionada, ni asegura la fidelidad de la misma*
+*LEER TÉRMINOS Y CONDICIONES AL REGISTRARSE*
 
