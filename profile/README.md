@@ -1,4 +1,5 @@
-# Fuddy | Aplicación para Recomendaciones de Recetas saludables y accesibles enfocada en Latinoamerica
+# Fuddy: Recetas económicas y accesibles
+### *Recetas saludables y accesibles enfocada en Latinoamerica*
 
 <div align="center">
 <img src="https://res.cloudinary.com/draig/image/upload/v1694804873/fuddy/x3c0jyse51halioek934.png" width="200" alt="LOGO" />
