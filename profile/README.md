@@ -34,7 +34,7 @@ Este proyecto es una aplicación web y mobile que hace uso de inteligencia artif
 - FRONTEND: https://www.linkedin.com/in/sol-maldonado-fullstack/
 - DATA ANALYSIS: https://www.linkedin.com/in/federico-martin-desia-200689240/
 - TESTING: https://www.linkedin.com/in/silvanatapia/
-- PM: https://www.linkedin.com/in/avellaneda-agustín-tns/
+- PM & MOBILE: https://www.linkedin.com/in/avellaneda-agustín-tns/
 
 ## Contacto
 Para soporte, por favor contacta por
