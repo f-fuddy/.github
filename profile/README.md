@@ -2,7 +2,7 @@
 ### *Recetas saludables y accesibles enfocada en Latinoamerica*
 
 <div align="center">
-<img src="https://res.cloudinary.com/draig/image/upload/v1694804873/fuddy/x3c0jyse51halioek934.png" width="200" alt="LOGO" />
+<img src="https://fuddy.click/logo.png" width="200" alt="LOGO" />
 </div>
 
 ## Descripción
